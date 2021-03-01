@@ -1,16 +1,15 @@
-### Hi there 👋
+### About onedonedone
 
-<!--
-**onedonedone/onedonedone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, Nice to meet you!
 
-Here are some ideas to get you started:
+I am **onedonedone**, an undergraduate in Nanjing University (NJU).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is my **email address**: onedonedone@outlook.com
+
+### 关于我
+
+您好!
+
+我是 **onedonedone**, 正于南京大学读本科.
+
+这是我的**邮箱**: onedonedone@outlook.com
